@@ -83,3 +83,21 @@ ________________________________________________________________________________
    Módosítás utáni állapotok:
    
    ![19.kép](4_gyakorlat_6.png)
+   
+   ## V. gyakorlat - NOSQL adatbázisok
+   
+   Mongodb elindítása
+   
+   ![20.kép](5_gyakorlat_1.png)
+   
+   Konfig fájlt szerkesztés és egy helszín hozzáadása:
+   
+   ![21.kép](5_gyakorlat_2.png)
+   
+   *db.location.find()* és a *db.location.insert({name: "Work", lat: 2, lon: 2})* parancsok kimenete:
+   
+   ![22.kép](5_gyakorlat_3.png)
+   
+   Bejegyzés (dokumentum) törlése utáni állapot:
+   
+   ![23.kép](5_gyakorlat_4.png)

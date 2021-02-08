@@ -28,10 +28,34 @@ ________________________________________________________________________________
 
    ![6.kép](2_gyakorlat_4.png)
    
-   Állapot visszatöltése
+   Állapot visszatöltése:
 
    ![7.kép](2_gyakorlat_5.png)
    
   ## III. gyakorlat - Központi adatbázis
   
+   Konténer letöllése és futtatása:
+  
    ![8.kép](3_gyakorlat_1.png)
+   
+   Konfigurációs állomány szerkesztése:
+   
+   ![9.kép](3_gyakorlat_2.png)
+   
+   Adatbevitel az adatbázisba az alkalmazáson keresztül:
+   
+   ![10.kép](3_gyakorlat_3.png)
+   
+   A bevitt adat ellenőrzése:
+   
+   ![11.kép](3_gyakorlat_4.png)
+   
+   DBeaver beállítása és adatbázishoz kapcsolódás:
+   
+   ![12.kép](3_gyakorlat_5.png)
+   
+   Adatbevitel a DBeaver programon keresztül:
+   
+   ![13.kép](3_gyakorlat_6.png)
+   
+  ## IV. gyakorlat - SQL nyelv

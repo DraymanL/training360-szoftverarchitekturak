@@ -59,3 +59,27 @@ ________________________________________________________________________________
    ![13.kép](3_gyakorlat_6.png)
    
   ## IV. gyakorlat - SQL nyelv
+  
+   *desc location;* és a  *select * from location;* parancsok futása:
+  
+   ![14.kép](4_gyakorlat_1.png)
+  
+  *insert into location(name, lat, lon) values ('Work2', 3, 3);* parancs lefutása:
+  
+   ![15.kép](4_gyakorlat_2.png)
+   
+   *update location set name = 'Work3' where id = 3;* parancs lefutása:
+   
+   ![16.kép](4_gyakorlat_3.png)
+   
+   *delete from location where id = 3;* parancs lefutása:
+   
+   ![17.kép](4_gyakorlat_4.png)
+   
+   Applikációba adatok felvitele és TAG-ek ellenőrzése:
+   
+   ![18.kép](4_gyakorlat_5.png)
+   
+   Módosítás utáni állapotok:
+   
+   ![19.kép](4_gyakorlat_6.png)

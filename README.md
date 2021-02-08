@@ -1,2 +1,3 @@
 Tanulmányi előrehaladás ellenőrzésére létrejött repository (struktúraváltó képzés)
-1. gyakorlat - Standalone konzolos alkalmazás
+I. gyakorlat - Standalone konzolos alkalmazás
+1.lépés: Telepítés és indítás

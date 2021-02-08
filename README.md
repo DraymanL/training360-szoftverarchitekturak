@@ -1,6 +1,6 @@
-**Tanulmányi előrehaladás ellenőrzésére létrejött repository (struktúraváltó képzés)**
+#**Tanulmányi előrehaladás ellenőrzésére létrejött repository (struktúraváltó képzés)**
 ______________________________________________________________________________________
-  I. gyakorlat - Standalone konzolos alkalmazás
+  ##I. gyakorlat - Standalone konzolos alkalmazás
   
    Használat manuálisan:
 
@@ -10,7 +10,7 @@ ________________________________________________________________________________
    
    ![2.kép](1_gyakorlat_2.png)
    
-  II. gyakorlat - Standalone grafikus alkalmazás
+  ##II. gyakorlat - Standalone grafikus alkalmazás
 
    Letöltés és kicsomagolás:
 
@@ -32,4 +32,4 @@ ________________________________________________________________________________
 
    ![7.kép](2_gyakorlat_5.png)
    
-  III. gyakorlat - Központi adatbázis
+  ##III. gyakorlat - Központi adatbázis

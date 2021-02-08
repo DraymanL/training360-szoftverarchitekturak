@@ -2,6 +2,10 @@ Tanulmányi előrehaladás ellenőrzésére létrejött repository (struktúrav�
 
   I. gyakorlat - Standalone konzolos alkalmazás
 
-   1.lépés: Telepítés és indítás
+   Használat manuálisan:
 
-   ![1.kép](1_gyakorlat_1_lepes.png)
+   ![1.kép](1_gyakorlat_1.png)
+   
+   Használat szkripttel:
+   
+   ![2.kép](1_gyakorlat_2.png)

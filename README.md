@@ -101,3 +101,18 @@ ________________________________________________________________________________
    Bejegyzés (dokumentum) törlése utáni állapot:
    
    ![23.kép](5_gyakorlat_4.png)
+   
+   ## VI. gyakorlat - Többrétegú alkalmazások
+   
+   A hálózat az adatbázis és a szerveralkalmazás indítása:
+   
+   ![24.kép](6_gyakorlat_1.png)
+   
+    
+   
+   ![25.kép](6_gyakorlat_2.png)
+   ![26.kép](6_gyakorlat_3.png)
+   ![27.kép](6_gyakorlat_4.png)
+   ![28.kép](6_gyakorlat_5.png)
+   ![29.kép](6_gyakorlat_6.png)
+   
